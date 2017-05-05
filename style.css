@@ -1,0 +1,36 @@
+/* Stylesheet for Evidence 3 */
+
+html body {
+	vertical-align: top;
+	margin: 0;
+	padding: 0;
+	color: #009673; /* Text Color */
+	font-family: Georgia; /* Font for the text */
+	font-weight: 19; /* Weight for the text */
+	font-size: 1em;
+	background:  #FFEFFF
+}
+
+h1, h2, h3, h4, h5, h6 {
+	vertical-align: top;
+	color: deeppink; /* Color for headers */
+	font-weight: 65; /* Weight for headers */
+	font-size: 3em;
+}
+
+header, section {
+	vertical-align: top;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+ul li {
+	vertical-align: top;
+	display: inline-block;
+	padding: 5px;
+}
+nav a {
+	text-decoration: none;
+	color: skyblue; /* Color for the text on navigation */
+	font-family: Cooper Black; 
+}
